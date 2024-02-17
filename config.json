@@ -1,0 +1,12 @@
+{
+    "redis": {
+        "host": "",
+        "port": 36554,
+        "db": 0,
+        "user": "",
+        "pass": ""
+    },
+    "app": {
+        "output_dir": "/tmp"
+    }
+}
